@@ -1,0 +1,11 @@
+[1221/220710.240:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Play Games\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\0ab73979-6e8d-4ab1-9d12-15699ecba64f: The system cannot find the path specified. (0x3)
+[1221/220710.889:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[1221/221211.175:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1222/103620.021:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1223/222609.290:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1223/224355.191:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[1223/225747.670:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1224/110401.121:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1224/131427.148:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1224/133931.660:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1224/205738.592:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
